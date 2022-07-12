@@ -1,1 +1,3 @@
 # Typing_Assistant
+Typing assistant is the only assistant you'll need to ace up your typing skill. With it's assistance you'll know about your typing speed, accuracy, and
+correctness. After every level you complete, your statistics will appear with score that's based on the above mentioned factors. There are three levels: beginners level, intermediate and advanced level. These levels are designed considering an interface that'll be easy to use yet giving a smooth transition to your skill fom newbie to a pro typist. So what are waiting for, try the application now to level up your typing skills. Start your typing journey with us and experience yourself upgrading with every level you surpass!
